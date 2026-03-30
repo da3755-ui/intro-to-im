@@ -1,5 +1,5 @@
-const int book = 2;
-const int ledPin = 13;
+int book = 2;
+int ledPin = 13;
 
 void setup() {
   pinMode(book, INPUT_PULLUP);
